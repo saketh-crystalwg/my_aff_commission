@@ -1,6 +1,7 @@
-json
 pandas
 datetime
 requests
 requests.auth
 xmltodict
+json
+psycopg2
