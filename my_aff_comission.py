@@ -17,10 +17,6 @@ df = json.loads(json_data)
 
 print(df)
 
-df = pd.DataFrame(df)
-
-df_1 = pd.json_normalize(df['EARNINGS']['USER'])
+df_1 = pd.DataFrame(df)
 
 print(df_1)
-
-df_1
