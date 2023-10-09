@@ -15,8 +15,12 @@ json_data = json.dumps(data_dict)
 
 df = json.loads(json_data)
 
+print(df)
+
 df = pd.DataFrame(df)
 
 df_1 = pd.json_normalize(df['EARNINGS']['USER'])
+
+print(df_1)
 
 df_1
