@@ -20,8 +20,6 @@ json_data = json.dumps(data_dict)
 
 df = json.loads(json_data)
 
-print(df)
-
 df_1 = pd.DataFrame(df)
 
 print(df_1)
