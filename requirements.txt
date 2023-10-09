@@ -4,4 +4,3 @@ requests
 requests.auth
 xmltodict
 psycopg2
-os
