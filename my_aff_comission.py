@@ -22,4 +22,6 @@ df = json.loads(json_data)
 
 df_1 = pd.DataFrame(df)
 
+df_1 = pd.json_normalize(df['EARNINGS']['USER'])
+
 print(df_1)
