@@ -4,3 +4,7 @@ requests
 requests.auth
 xmltodict
 psycopg2
+babel
+openpyxl
+sqlalchemy
+timedelta
