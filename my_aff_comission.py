@@ -38,7 +38,7 @@ def send_mail(send_from,send_to,subject,text,server,port,username='',password=''
 
 sender = "sakethg250@gmail.com"
 recipients = ["sakethg250@gmail.com","marcos@crystalwg.com"]
-password = "ztrgzuxuzwbgfskf"
+password = "xjyb jsdl buri ylqr"
 
 
 r = requests.get(f'https://admin.crystalwgpartners.com/feeds.php?FEED_ID=25&FROM_DATE={date_1}&TO_DATE={date_1}',\
