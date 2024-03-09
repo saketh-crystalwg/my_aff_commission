@@ -37,7 +37,7 @@ def send_mail(send_from,send_to,subject,text,server,port,username='',password=''
     smtp.quit()
 
 sender = "sakethg250@gmail.com"
-recipients = ["sakethg250@gmail.com","marcos@crystalwg.com"]
+recipients = ["sakethg250@gmail.com"]
 password = "xjyb jsdl buri ylqr"
 
 
